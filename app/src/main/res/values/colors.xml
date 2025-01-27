@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="order_status_cooking">#FFA500</color>
+    <color name="order_status_cooked">#32CD32</color>
+    <color name="order_status_delivering">#008000</color>
+</resources>
