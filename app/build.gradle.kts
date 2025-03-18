@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.vitoksmile.samples.progresscentricnotifications"
-    compileSdkPreview = "Baklava"
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.vitoksmile.samples.progresscentricnotifications"
-        minSdk = 35
-        targetSdkPreview = "Baklava"
+        minSdk = 36
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
     }
